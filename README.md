@@ -4,6 +4,7 @@ The growth of deep learning as a discipline facilitates the development of intel
 UCF50 Dataset: https://www.crcv.ucf.edu/data/UCF50.rar
 
 Shorten Dataset (10 Action Categories): https://drive.google.com/file/d/1llnTHkY92mS53Tqc_-kODA8NYWrKvDSw/view?usp=sharing
+
 ![image](https://github.com/abhiramsannidhi/Human-Activity-Recognition-Using-Deep-Learning/assets/113664369/7cb03488-2de1-4270-bf88-e27611654925)
 ![image](https://github.com/abhiramsannidhi/Human-Activity-Recognition-Using-Deep-Learning/assets/113664369/0ddeaeb5-a2b0-4b2c-813f-f03e8a6e2c14)
 ![image](https://github.com/abhiramsannidhi/Human-Activity-Recognition-Using-Deep-Learning/assets/113664369/ab689a05-7a43-431d-b831-a3b2952f4d3d)
